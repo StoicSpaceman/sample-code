@@ -3,7 +3,7 @@
 var adelaide = new google.maps.LatLng(-34.9174249,138.5947491);
 var austin = new google.maps.LatLng(30.2746378,-97.7403547);
 // Create your own API as per https://support.nearmap.com/hc/en-us/articles/115006379787-API-Key-Authentication
-var apikey = 'OWZkNzIwMTctNjNkMS00NDU2LWJlYzItNzI4ZTFjYjM1MzAw';
+var apikey = 'ZjNhZDkyNDUtZjIyMS00NTkwLWJlMzYtZDJlNWUyNDkxNjE4';
 
 function degreesToRadians(deg) {
 	return deg * (Math.PI / 180);
